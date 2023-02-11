@@ -77,7 +77,7 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    height: 90px;
+    height: 120px;
     background: #fdbe33;
 }
 
@@ -1990,6 +1990,8 @@ a:focus {
 .contact .contact-form {
     position: relative;
     padding: 0 15px;
+    width: 100%;
+    height: 100%;
 }
 
 .contact .contact-form input {
