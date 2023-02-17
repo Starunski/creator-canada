@@ -1,19 +1,13 @@
 body {
-  background: #000;
+  /* background: #000;
   color: white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  font-family: 'Roboto Mono';
+  text-align: center; */
+  /* font-family: 'Roboto Mono'; */
 }
 
-h2 {
-  font-weight: 300;
-  margin: 4vh 4vw;
-  letter-spacing: 3px;
-  color: #fff;
-  text-transform: uppercase;
-}
+ 
 
 .demo-btn {
   display: inline-block;
@@ -44,8 +38,8 @@ h2 {
 ========================================== 
 */
 .m-p-g {
-  max-width: 860px;
-  margin: 0 auto;
+  /* max-width: 860px; */
+  /* margin: 0 auto; */
 }
 
 .m-p-g__thumbs-img {
